@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/code/cplus_study/pr_box/2024pr1/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/calculator.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\calculator.dir\\src\\calculator.c.obj -c D:\\code\\cplus_study\\pr_box\\2024pr1\\src\\calculator.c",
+  "file": "D:/code/cplus_study/pr_box/2024pr1/src/calculator.c",
+  "output": "CMakeFiles/calculator.dir/src/calculator.c.obj"
+}
+]
