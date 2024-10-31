@@ -52,3 +52,5 @@ float *Matrix_mul(float *mat1, size_t row1, size_t col1, float *mat2, size_t row
         sprintf(stderr, "Matrix dimensions do not match\n");
     float *result = Matrix_create(row1, col2);//哈哈哈
 }
+
+//测试同步
