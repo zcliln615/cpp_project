@@ -1,0 +1,3 @@
+D:\msys64\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\matrix.dir/objects.a
+D:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\matrix.dir/objects.a @CMakeFiles\matrix.dir\objects1.rsp
+D:\msys64\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\matrix.dir/objects.a -Wl,--no-whole-archive -o D:\code\cpp_project\2024pr2\bin\matrix.exe -Wl,--out-implib,D:\code\cpp_project\2024pr2\bin\libmatrix.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\matrix.dir\linkLibs.rsp
