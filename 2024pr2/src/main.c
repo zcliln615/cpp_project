@@ -75,6 +75,8 @@ void Martrix_free_all()
     Matrix_p_buff_index = 0;
 }
 
+/// @brief 矩阵乘法
+/// @return 乘法结果
 float *Matrix_mul(float *mat1, size_t row1, size_t col1, float *mat2, size_t row2, size_t col2)
 {
     if (mat1 == NULL || mat2 == NULL)
@@ -97,6 +99,10 @@ float *Matrix_mul(float *mat1, size_t row1, size_t col1, float *mat2, size_t row
     return result;
 }
 
+/// @brief 打印矩阵
+/// @param mat 矩阵
+/// @param row 矩阵行
+/// @param col 矩阵列
 void Matrix_printf(float *mat, size_t row, size_t col)
 {
     for (size_t i = 0; i < row; i++)
