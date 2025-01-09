@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/code/cpp_project/2024pr2/build",
-  "command": "D:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/matrix.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\matrix.dir\\src\\main.c.obj -c D:\\code\\cpp_project\\2024pr2\\src\\main.c",
-  "file": "D:/code/cpp_project/2024pr2/src/main.c",
-  "output": "CMakeFiles/matrix.dir/src/main.c.obj"
-}
-]
